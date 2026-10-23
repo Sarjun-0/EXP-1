@@ -1,4 +1,4 @@
-<img width="1440" height="927" alt="WhatsApp Image 2026-10-23 at 7 28 09 PM" src="https://github.com/user-attachments/assets/ca2072b4-9607-493b-bd09-ebe92f83d621" />
+
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
