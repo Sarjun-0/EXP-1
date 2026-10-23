@@ -1,3 +1,4 @@
+<img width="1440" height="927" alt="WhatsApp Image 2026-10-23 at 7 28 09 PM" src="https://github.com/user-attachments/assets/ca2072b4-9607-493b-bd09-ebe92f83d621" />
 # EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
@@ -43,31 +44,41 @@ CIRCUIT DIAGRAM:
 CIRCUIT DIAGRAM:
 
 
-a.   KVL:
- 
+a.   KVL:<img width="1440" height="927" alt="WhatsApp Image 2026-10-23 at 7 28 09 PM" src="https://github.com/user-attachments/assets/72e28191-b060-41c5-b5eb-88c8d409a7d5" />
+
+ <img width="1440" height="885" alt="WhatsApp Image 2026-10-23 at 7 28 09 PM (1)" src="https://github.com/user-attachments/assets/2288f1bd-4d67-47a1-8252-b18b76aea626" />
 
 
-b.  KCL:
+
+b.  KCL:<img width="1440" height="829" alt="WhatsApp Image 2026-10-23 at 7 28 10 PM" src="https://github.com/user-attachments/assets/bcb32f10-3a33-4dcd-b2df-214b203956f0" />
+
+<img width="1440" height="804" alt="WhatsApp Image 2026-10-23 at 7 28 10 PM (1)" src="https://github.com/user-attachments/assets/d9dbe8e4-f16a-462e-b402-c58e0402aae1" />
+
+
  
 
 Calculation:
 
-a.   KVL:
+a.   KVL:<img width="1044" height="1598" alt="WhatsApp Image 2026-10-23 at 7 28 10 PM (2)" src="https://github.com/user-attachments/assets/57f73c22-0d29-42f2-98c4-cee8f8209a96" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1126" height="1600" alt="WhatsApp Image 2026-10-23 at 7 28 10 PM (3)" src="https://github.com/user-attachments/assets/07621151-f697-4b3a-ac4b-798499ad3b1d" />
+
 
 
 
 
 Tabulation:
 
-a.   KVL:
+a.   KVL:<img width="1400" height="849" alt="WhatsApp Image 2026-10-23 at 7 28 11 PM" src="https://github.com/user-attachments/assets/ba187d9e-672c-48ba-81e4-b748ad590689" />
+
  
 
 
-b.  KCL:
+b.  KCL:<img width="1323" height="975" alt="WhatsApp Image 2026-10-23 at 7 28 11 PM (1)" src="https://github.com/user-attachments/assets/dc693400-01b1-4ef3-ae37-37405f41396d" />
+
 
 
 
